@@ -1,0 +1,6 @@
+{
+  "name": "Roblox DonateCash Gateway - Sociabuzz & Saweria Cloudflare Hub",
+  "description": "Platform webhook & API Gateway DonateCash Roblox terintegrasi Sociabuzz & Saweria, Cloudflare Worker, Discord login, Roblox verification, Whitelist Owner, dan Custom Lua Script Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
